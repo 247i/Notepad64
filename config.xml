@@ -20,7 +20,6 @@
         <Replace name="&#x0BA8;&#x0BC0;&#x0B95;&#x0BCD;&#x0B95;&#x0BC1;" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\&#x0B90;\Desktop\nitsm-mipi-python\pyproject.toml" />
         <File filename="\\vmware-host\Shared Folders\Documents\&#x0B95;&#x0BBF;&#x0B9F;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BBF;\SIT\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC8;&#x0B95;&#x0BCD;&#x0B95;&#x0BA4;&#x0BC8;&#x0B95;&#x0BB3;&#x0BCD;\Boot-v1.bat" />
         <File filename="\\vmware-host\Shared Folders\Documents\&#x0B95;&#x0BBF;&#x0B9F;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BBF;\SIT\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC8;&#x0B95;&#x0BCD;&#x0B95;&#x0BA4;&#x0BC8;&#x0B95;&#x0BB3;&#x0BCD;\BootApps-v1.bat" />
         <File filename="\\vmware-host\Shared Folders\Documents\&#x0B95;&#x0BBF;&#x0B9F;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BBF;\SIT\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC8;&#x0B95;&#x0BCD;&#x0B95;&#x0BA4;&#x0BC8;&#x0B95;&#x0BB3;&#x0BCD;\TamilName-v1.bat" />
@@ -29,6 +28,8 @@
         <File filename="\\vmware-host\Shared Folders\Documents\&#x0B95;&#x0BBF;&#x0B9F;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BBF;\SIT\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC8;&#x0B95;&#x0BCD;&#x0B95;&#x0BA4;&#x0BC8;&#x0B95;&#x0BB3;&#x0BCD;\Boot.bat" />
         <File filename="\\vmware-host\Shared Folders\Documents\&#x0B95;&#x0BBF;&#x0B9F;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BBF;\SIT\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC8;&#x0B95;&#x0BCD;&#x0B95;&#x0BA4;&#x0BC8;&#x0B95;&#x0BB3;&#x0BCD;\TamilName.bat" />
         <File filename="\\vmware-host\Shared Folders\Documents\&#x0B95;&#x0BBF;&#x0B9F;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BBF;\SIT\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC8;&#x0B95;&#x0BCD;&#x0B95;&#x0BA4;&#x0BC8;&#x0B95;&#x0BB3;&#x0BCD;\&#x0BA4;&#x0BBF;&#x0BB0;&#x0BC1;&#x0B95;&#x0BCD;&#x0B95;&#x0BC1;&#x0BB1;&#x0BB3;&#x0BCD;.bat" />
+        <File filename="C:\&#x0B85;&#x0BB1;&#x0BBF;\Apps\&#x0BAA;&#x0BBF;&#x0BA9;&#x0BCD;&#x0BA9;&#x0BA3;&#x0BBF;\&#x0B9F;&#x0BBF;&#x0B92;&#x0BA4;&#x0BCD;&#x0BA4;&#x0BBF;&#x0B9A;&#x0BC8;\Readme.txt" />
+        <File filename="C:\&#x0B85;&#x0BB1;&#x0BBF;\Apps\&#x0BAA;&#x0BBF;&#x0BA9;&#x0BCD;&#x0BA9;&#x0BA3;&#x0BBF;\&#x0B9A;&#x0BCA;&#x0BB1;&#x0BCD;&#x0BB1;&#x0BCA;&#x0B9F;&#x0BB0;&#x0BCD;&#x0BB5;&#x0BC6;&#x0BB3;&#x0BBF;&#x0BAA;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BC1;&#x0BA4;&#x0BCD;&#x0BA4;&#x0BC1;\&#x0B9A;&#x0BCA;&#x0BB1;&#x0BCD;&#x0BB1;&#x0BCA;&#x0B9F;&#x0BB0;&#x0BCD;&#x0BB5;&#x0BC6;&#x0BB3;&#x0BBF;&#x0BAA;&#x0BCD;&#x0BAA;&#x0B9F;&#x0BC1;&#x0BA4;&#x0BCD;&#x0BA4;&#x0BC1;.bat" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -87,7 +88,7 @@
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorLinkText="65535" customColorEdge="6579300" customColorHotEdge="10197915" customColorDisabledEdge="4737096" enableWindowsMode="no" darkThemeName="DarkModeDefault.xml" darkToolBarIconSet="0" darkTabIconSet="2" darkTabUseTheme="no" lightThemeName="" lightToolBarIconSet="4" lightTabIconSet="0" lightTabUseTheme="yes" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" isChangeHistoryEnabled="yes" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="show" eolShow="show" eolMode="1" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" isChangeHistoryEnabled="yes" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="show" eolShow="hide" eolMode="1" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="200" topHeight="200" bottomHeight="200">
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
