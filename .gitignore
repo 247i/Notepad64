@@ -4,3 +4,4 @@ license.txt
 readme.txt
 localization/*
 config.xml
+nppLogNulContentCorruptionIssue.log
