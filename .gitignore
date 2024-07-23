@@ -5,3 +5,4 @@ readme.txt
 localization/*
 config.xml
 nppLogNulContentCorruptionIssue.log
+/backup
